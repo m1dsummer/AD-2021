@@ -5,6 +5,7 @@
 | 序号 | 博客 | 备注 |
 | --- | ---  | --- |
 | 1 | [jimmysong.io](https://jimmysong.io/kubernetes-handbook) | 云原生技术学习 |
+| 2 | [https://github.com/Maskhe/javasec](https://github.com/Maskhe/javasec) | Java 安全学习 |
 
 
 ## 收藏的文章
