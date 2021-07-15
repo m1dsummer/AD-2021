@@ -15,6 +15,7 @@
 | 1 | [WAF攻防研究之四个层次Bypass WAF](https://xz.aliyun.com/t/15) | `Web Security` `WAF` | 深度总结！ |
 | 2 | [获取某个国家的全部 IP](https://www.countryipblocks.net/acl.php) | `Tool` | - |
 | 3 | [BlackHat USA 2019 - Host/Split Exploitable Antipatterns in Unicode Normalization](https://i.blackhat.com/USA-19/Thursday/us-19-Birch-HostSplit-Exploitable-Antipatterns-In-Unicode-Normalization.pdf) | `Web Security` `IDNA` | 演讲ppt |
+| 4 | [cppwasm-book](https://github.com/3dgen/cppwasm-book/blob/master/zh/SUMMARY.md) | `WebAssembly` | 比官网写的易懂多了 |
 
 
 ## 读过的书
@@ -32,4 +33,4 @@
 | 2 | 无间道 2 | 出来混，迟早是要还的 |
 | 3 | 源代码 | - |
 | 4 | 我是谁： 没有绝对安全的系统 | - |
-
+| 5 | 无间道 3 | 无间地狱 |
