@@ -16,6 +16,7 @@
 | 2 | [获取某个国家的全部 IP](https://www.countryipblocks.net/acl.php) | `Tool` | - |
 | 3 | [BlackHat USA 2019 - Host/Split Exploitable Antipatterns in Unicode Normalization](https://i.blackhat.com/USA-19/Thursday/us-19-Birch-HostSplit-Exploitable-Antipatterns-In-Unicode-Normalization.pdf) | `Web Security` `IDNA` | 演讲ppt |
 | 4 | [cppwasm-book](https://github.com/3dgen/cppwasm-book/blob/master/zh/SUMMARY.md) | `WebAssembly` | 比官网写的易懂多了 |
+| 5 | [CVE-2017-10271 Weblogic XMLDecoder反序化分析](https://www.anquanke.com/post/id/102768) | 安全客 |
 
 
 ## 读过的书
@@ -24,6 +25,7 @@
 | 1 | 圣经的故事 | 进度 27% |
 | 2 | 规模 | 进度 25% |
 | 3 | 流浪地球 | 进度 100% |
+| 4 | 图解 TCP/IP | 进度 100% |
 
 
 ## 观过的影
@@ -35,4 +37,4 @@
 | 4 | 我是谁： 没有绝对安全的系统 | - |
 | 5 | 无间道 3 | 无间地狱 |
 | 6 | 霍比特人 1/2/3 | - |
-
+| 7 | 哈利波特与魔法石 | - |
