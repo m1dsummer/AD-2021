@@ -16,8 +16,9 @@
 | 2 | [获取某个国家的全部 IP](https://www.countryipblocks.net/acl.php) | `Tool` | - |
 | 3 | [BlackHat USA 2019 - Host/Split Exploitable Antipatterns in Unicode Normalization](https://i.blackhat.com/USA-19/Thursday/us-19-Birch-HostSplit-Exploitable-Antipatterns-In-Unicode-Normalization.pdf) | `Web Security` `IDNA` | 演讲ppt |
 | 4 | [cppwasm-book](https://github.com/3dgen/cppwasm-book/blob/master/zh/SUMMARY.md) | `WebAssembly` | 比官网写的易懂多了 |
-| 5 | [CVE-2017-10271 Weblogic XMLDecoder反序化分析](https://www.anquanke.com/post/id/102768) | 安全客 |
-| 6 | [bypass disable functoin](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD) | Github |
+| 5 | [CVE-2017-10271 Weblogic XMLDecoder反序化分析](https://www.anquanke.com/post/id/102768) | `web Security` `Java` `Web-logic` | 安全客 |
+| 6 | [bypass disable functoin](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD) | `Web Security` `PHP` | Github |
+| 7 | [HackTricks](https://book.hacktricks.xyz/) | `bypass` | 各种 bypass 技巧总结，非常全面
 
 ## 读过的书
 | 序号 | 书名 | 备注 |
