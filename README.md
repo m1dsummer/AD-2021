@@ -18,7 +18,8 @@
 | 4 | [cppwasm-book](https://github.com/3dgen/cppwasm-book/blob/master/zh/SUMMARY.md) | `WebAssembly` | 比官网写的易懂多了 |
 | 5 | [CVE-2017-10271 Weblogic XMLDecoder反序化分析](https://www.anquanke.com/post/id/102768) | `web Security` `Java` `Web-logic` | 安全客 |
 | 6 | [bypass disable functoin](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD) | `Web Security` `PHP` | Github |
-| 7 | [HackTricks](https://book.hacktricks.xyz/) | `bypass` | 各种 bypass 技巧总结，非常全面
+| 7 | [HackTricks](https://book.hacktricks.xyz/) | `bypass` | 各种 bypass 技巧总结，非常全面 |
+| 8 | [BlackHat 2018 关于 PHP 反序列化的演讲](https://github.com/s-n-t/presentations/blob/master/us-18-Thomas-It's-A-PHP-Unserialization-Vulnerability-Jim-But-Not-As-We-Know-It.pdf) | `Web Security` `PHP` | BlackHat 2018 |
 
 ## 读过的书
 | 序号 | 书名 | 备注 |
