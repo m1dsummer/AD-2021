@@ -20,6 +20,7 @@
 | 6 | [bypass disable functoin](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD) | `Web Security` `PHP` | Github |
 | 7 | [HackTricks](https://book.hacktricks.xyz/) | `bypass` | 各种 bypass 技巧总结，非常全面 |
 | 8 | [BlackHat 2018 关于 PHP 反序列化的演讲](https://github.com/s-n-t/presentations/blob/master/us-18-Thomas-It's-A-PHP-Unserialization-Vulnerability-Jim-But-Not-As-We-Know-It.pdf) | `Web Security` `PHP` | BlackHat 2018 |
+| 9 | [Node.js Zoombie Package RCE](https://ha.cker.in/index.php/Article/13563) | `Web Security` `nodejs` | |
 
 ## 读过的书
 | 序号 | 书名 | 备注 |
