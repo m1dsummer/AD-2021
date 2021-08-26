@@ -9,6 +9,7 @@
 | --- | ---  | --- |
 | 1 | [jimmysong.io](https://jimmysong.io/kubernetes-handbook) | 云原生技术学习 |
 | 2 | [https://github.com/Maskhe/javasec](https://github.com/Maskhe/javasec) | Java 安全学习 |
+| 3 | [土豆不好吃](https://dmesg.app/) | 好多有趣的东西，极客风 |
 
 
 ## 收藏的文章
