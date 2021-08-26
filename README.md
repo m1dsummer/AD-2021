@@ -1,6 +1,9 @@
 # AD 2021
 记录下我的2021年。(Inspired by [yihong](https://github.com/yihong0618/))
 
+## Github
+![](https://camo.githubusercontent.com/6be5974aa9a6edd07768e35fa1544001c5e92ac81fbce3ebbb2bec552a2aaf89/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d316473756d6d65722673686f775f69636f6e733d7472756526686964655f626f726465723d747275652626636f756e745f707269766174653d74727565253232)
+
 ## 收藏的博客
 | 序号 | 博客 | 备注 |
 | --- | ---  | --- |
@@ -22,7 +25,7 @@
 | 8 | [BlackHat 2018 关于 PHP 反序列化的演讲](https://github.com/s-n-t/presentations/blob/master/us-18-Thomas-It's-A-PHP-Unserialization-Vulnerability-Jim-But-Not-As-We-Know-It.pdf) | `Web Security` `PHP` | BlackHat 2018 |
 | 9 | [Node.js Zoombie Package RCE](https://ha.cker.in/index.php/Article/13563) | `Web Security` `nodejs` | |
 
-## 读过的书
+## 读书
 | 序号 | 书名 | 备注 |
 | --- | --- | --- |
 | 1 | 圣经的故事 | 进度 27% |
@@ -32,7 +35,7 @@
 | 5 | 白帽子讲 Web 安全 | 进度 100% |
 
 
-## 观过的影
+## 观影
 | 序号 | 名称 | 备注 |
 | --- | --- | --- |
 | 1 | 无间道 1 | 對唔住，我係差人！|
@@ -42,3 +45,14 @@
 | 5 | 无间道 3 | 无间地狱 |
 | 6 | 霍比特人 1/2/3 | - |
 | 7 | 哈利波特与魔法石 | - |
+
+## 写博客
+| 序号 | 名称 |
+| ---  | --- |
+| 1 | [PHP无参数RCE](https://blog.summ3r.top/2021/06/01/PHP%E6%97%A0%E5%8F%82%E6%95%B0RCE/) |
+| 2 | [JMCTF-2021-GoOss](https://blog.summ3r.top/2021/05/18/JMCTF-2021-GoOss/) |
+| 3 | [HFCTF-2021-Final tinypng](https://blog.summ3r.top/2021/05/15/HFCTF-2021-Final-tinypng/) |
+| 4 | [HFCTF-2021-Final-easyflask](https://blog.summ3r.top/2021/05/08/HFCTF-2021-Final-easyflask/) |
+| 5 | [One_Pointer_PHP](https://blog.summ3r.top/2021/05/02/One-Pointer-PHP/) |
+| 6 | [失控》听书笔记](https://blog.summ3r.top/2021/03/28/%E5%A4%B1%E6%8E%A7/) |
+| 7 | [xctf-favorite-number](https://blog.summ3r.top/2021/03/19/xctf-favorite-number/) |
