@@ -10,6 +10,7 @@
 | 1 | [jimmysong.io](https://jimmysong.io/kubernetes-handbook) | 云原生技术学习 |
 | 2 | [https://github.com/Maskhe/javasec](https://github.com/Maskhe/javasec) | Java 安全学习 |
 | 3 | [土豆不好吃](https://dmesg.app/) | 好多有趣的东西，极客风 |
+| 4 | [safe6](http://www.safe6.cn/) | safe6 师傅，web安全，安卓逆向 |
 
 
 ## 收藏的文章
@@ -34,6 +35,7 @@
 | 3 | 流浪地球 | 进度 100% |
 | 4 | 图解 TCP/IP | 进度 100% |
 | 5 | 白帽子讲 Web 安全 | 进度 100% |
+| 6 | Nmap 渗透测试指南 | 进度 100% |
 
 
 ## 观影
@@ -57,3 +59,4 @@
 | 5 | [One_Pointer_PHP](https://blog.summ3r.top/2021/05/02/One-Pointer-PHP/) |
 | 6 | [失控》听书笔记](https://blog.summ3r.top/2021/03/28/%E5%A4%B1%E6%8E%A7/) |
 | 7 | [xctf-favorite-number](https://blog.summ3r.top/2021/03/19/xctf-favorite-number/) |
+| 8 | [Nodejs Zoombie Package RCE 分析](https://blog.summ3r.top/2021/08/26/Nodejs-Zoombie-Package-RCE-%E5%88%86%E6%9E%90/)
