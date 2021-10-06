@@ -11,6 +11,7 @@
 | 2 | [https://github.com/Maskhe/javasec](https://github.com/Maskhe/javasec) | Java 安全学习 |
 | 3 | [土豆不好吃](https://dmesg.app/) | 好多有趣的东西，极客风 |
 | 4 | [safe6](http://www.safe6.cn/) | safe6 师傅，web安全，安卓逆向 |
+| 5 | [phith0n](https://www.leavesongs.com/)
 
 
 ## 收藏的文章
@@ -39,8 +40,9 @@
 | 6 | Nmap 渗透测试指南 | 进度 100% |
 | 7 | Java 代码审计 | Bad |
 | 8 | 深入浅出密码学 | 进度 4% |
-| 9 | WebAssembly原理与核心技术 | 进度 30%, 适合当参考书 |
+| 9 | WebAssembly原理与核心技术 | 适合当参考书 |
 | 10 | 苏东坡传 | 进度 9% |
+| 11 | 深入理解 Java 虚拟机 | 进度 6% |
 
 
 ## 观影
