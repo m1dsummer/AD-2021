@@ -28,6 +28,7 @@
 | 8 | [BlackHat 2018 关于 PHP 反序列化的演讲](https://github.com/s-n-t/presentations/blob/master/us-18-Thomas-It's-A-PHP-Unserialization-Vulnerability-Jim-But-Not-As-We-Know-It.pdf) | `Web Security` `PHP` | BlackHat 2018 |
 | 9 | [Node.js Zoombie Package RCE](https://ha.cker.in/index.php/Article/13563) | `Web Security` `nodejs` | |
 | 10 | [Python Pickle 反序列化初探](https://xz.aliyun.com/t/7436) | `Web Security` `Python` `pickle` | 手撕 opcode |
+| 11 | [Lib之过？Java反序列化漏洞通用利用分析](https://blog.chaitin.cn/2015-11-11_java_unserialize_rce/) | 国内早期分析Java反序列化的文章 |
 
 ## 读书
 | 序号 | 书名 | 备注 |
