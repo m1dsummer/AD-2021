@@ -28,7 +28,7 @@
 | 8 | [BlackHat 2018 关于 PHP 反序列化的演讲](https://github.com/s-n-t/presentations/blob/master/us-18-Thomas-It's-A-PHP-Unserialization-Vulnerability-Jim-But-Not-As-We-Know-It.pdf) | `Web Security` `PHP` | BlackHat 2018 |
 | 9 | [Node.js Zoombie Package RCE](https://ha.cker.in/index.php/Article/13563) | `Web Security` `nodejs` | |
 | 10 | [Python Pickle 反序列化初探](https://xz.aliyun.com/t/7436) | `Web Security` `Python` `pickle` | 手撕 opcode |
-| 11 | [Lib之过？Java反序列化漏洞通用利用分析](https://blog.chaitin.cn/2015-11-11_java_unserialize_rce/) | 国内早期分析Java反序列化的文章 |
+| 11 | [Lib之过？Java反序列化漏洞通用利用分析](https://blog.chaitin.cn/2015-11-11_java_unserialize_rce/) | `Web Security` `Java` | 国内早期分析Java反序列化的文章 |
 
 ## 读书
 | 序号 | 书名 | 备注 |
@@ -42,8 +42,10 @@
 | 7 | Java 代码审计 | Bad |
 | 8 | 深入浅出密码学 | 进度 4% |
 | 9 | WebAssembly原理与核心技术 | 适合当参考书 |
-| 10 | 苏东坡传 | 进度 9% |
-| 11 | 深入理解 Java 虚拟机 | 进度 6% |
+| 10 | 苏东坡传 | 进度 21% |
+| 11 | 深入理解 Java 虚拟机 | 进度 47% |
+| 12 | 从实践中学习windows渗透测试 | 10% |
+| 13 | Tomcat与Java Web开发技术 | 6% |
 
 
 ## 观影
@@ -57,6 +59,7 @@
 | 6 | 霍比特人 1/2/3 | - |
 | 7 | 哈利波特与魔法石 | - |
 | 8 | 黑鹰坠落 | 优质战争片 |
+| 9 | 长津湖 | 感人 |
 
 ## 写博客
 | 序号 | 名称 |
