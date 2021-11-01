@@ -31,6 +31,7 @@
 | 10 | [Python Pickle 反序列化初探](https://xz.aliyun.com/t/7436) | `Web Security` `Python` `pickle` | 手撕 opcode |
 | 11 | [Lib之过？Java反序列化漏洞通用利用分析](https://blog.chaitin.cn/2015-11-11_java_unserialize_rce/) | `Web Security` `Java` | 国内早期分析Java反序列化的文章 |
 | 12 | [PHP原生类的利用小结](https://whoamianony.top/2021/03/10/Web%E5%AE%89%E5%85%A8/PHP%20%E5%8E%9F%E7%94%9F%E7%B1%BB%E7%9A%84%E5%88%A9%E7%94%A8%E5%B0%8F%E7%BB%93/) | PHP 原生类的利用 |
+| 13 | [env rce](https://www.elttam.com/blog/env/) | 利用环境变量实现一些脚本语言的 RCE | `Web Security` `RCE` |
 
 ## 读书
 | 序号 | 书名 | 备注 |
@@ -73,4 +74,5 @@
 | 5 | [One_Pointer_PHP](https://blog.summ3r.top/2021/05/02/One-Pointer-PHP/) |
 | 6 | [失控》听书笔记](https://blog.summ3r.top/2021/03/28/%E5%A4%B1%E6%8E%A7/) |
 | 7 | [xctf-favorite-number](https://blog.summ3r.top/2021/03/19/xctf-favorite-number/) |
-| 8 | [Nodejs Zoombie Package RCE 分析](https://blog.summ3r.top/2021/08/26/Nodejs-Zoombie-Package-RCE-%E5%88%86%E6%9E%90/)
+| 8 | [Nodejs Zoombie Package RCE 分析](https://blog.summ3r.top/2021/08/26/Nodejs-Zoombie-Package-RCE-%E5%88%86%E6%9E%90/) |
+| 9 | [SQLite 注入](https://blog.summ3r.top/2021/10/30/SQLite-%E6%B3%A8%E5%85%A5/) |
