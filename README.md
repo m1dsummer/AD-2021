@@ -33,6 +33,7 @@
 | 12 | [PHP原生类的利用小结](https://whoamianony.top/2021/03/10/Web%E5%AE%89%E5%85%A8/PHP%20%E5%8E%9F%E7%94%9F%E7%B1%BB%E7%9A%84%E5%88%A9%E7%94%A8%E5%B0%8F%E7%BB%93/) | `Web Security` `Java` | PHP 原生类的利用 |
 | 13 | [env rce](https://www.elttam.com/blog/env/) | `Web Security` `RCE` | 利用环境变量实现一些脚本语言的 RCE |
 | 14 | [Trojan Source Attack](https://trojansource.codes/) | `CVE-2021-42574` `unicode` | 利用一些 unicode 字符进行视觉干扰，扰乱源码顺序 |
+| 15 | [各语言 base64 解码的神奇之处](https://t.zsxq.com/j6eiII2) | `base64` | 各语言 base64 解码的自动纠错特性，来自知识星球 |
 
 ## 读书
 | 序号 | 书名 | 备注 |
