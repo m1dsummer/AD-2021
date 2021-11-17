@@ -34,6 +34,7 @@
 | 13 | [env rce](https://www.elttam.com/blog/env/) | `Web Security` `RCE` | 利用环境变量实现一些脚本语言的 RCE |
 | 14 | [Trojan Source Attack](https://trojansource.codes/) | `CVE-2021-42574` `unicode` | 利用一些 unicode 字符进行视觉干扰，扰乱源码顺序 |
 | 15 | [各语言 base64 解码的神奇之处](https://t.zsxq.com/j6eiII2) | `base64` | 各语言 base64 解码的自动纠错特性，来自知识星球 |
+| 16 | [关于blackhat2021披露的fastjson1.2.68链](https://mp.weixin.qq.com/s/BRBcRtsg2PDGeSCbHKc0fg) | `Java` `Web Security` `fastjson` | fastjson 1.2.68 利用链 |
 
 ## 读书
 | 序号 | 书名 | 备注 |
@@ -78,3 +79,4 @@
 | 7 | [xctf-favorite-number](https://blog.summ3r.top/2021/03/19/xctf-favorite-number/) |
 | 8 | [Nodejs Zoombie Package RCE 分析](https://blog.summ3r.top/2021/08/26/Nodejs-Zoombie-Package-RCE-%E5%88%86%E6%9E%90/) |
 | 9 | [SQLite 注入](https://blog.summ3r.top/2021/10/30/SQLite-%E6%B3%A8%E5%85%A5/) |
+| 10 | [奇奇怪怪的 wget 与 curl](https://blog.summ3r.top/2021/11/17/%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA%E7%9A%84-wget-%E4%B8%8E-curl/) |
