@@ -35,6 +35,7 @@
 | 14 | [Trojan Source Attack](https://trojansource.codes/) | `CVE-2021-42574` `unicode` | 利用一些 unicode 字符进行视觉干扰，扰乱源码顺序 |
 | 15 | [各语言 base64 解码的神奇之处](https://t.zsxq.com/j6eiII2) | `base64` | 各语言 base64 解码的自动纠错特性，来自知识星球 |
 | 16 | [关于blackhat2021披露的fastjson1.2.68链](https://mp.weixin.qq.com/s/BRBcRtsg2PDGeSCbHKc0fg) | `Java` `Web Security` `fastjson` | fastjson 1.2.68 利用链 |
+| 17 | [浅析Linux下Redis的攻击面 1](https://xz.aliyun.com/t/7974) | `Web Security` `Redis` | Redis 常用漏洞总结 |
 
 ## 读书
 | 序号 | 书名 | 备注 |
