@@ -36,6 +36,7 @@
 | 15 | [各语言 base64 解码的神奇之处](https://t.zsxq.com/j6eiII2) | `base64` | 各语言 base64 解码的自动纠错特性，来自知识星球 |
 | 16 | [关于blackhat2021披露的fastjson1.2.68链](https://mp.weixin.qq.com/s/BRBcRtsg2PDGeSCbHKc0fg) | `Java` `Web Security` `fastjson` | fastjson 1.2.68 利用链 |
 | 17 | [浅析Linux下Redis的攻击面 1](https://xz.aliyun.com/t/7974) | `Web Security` `Redis` | Redis 常用漏洞总结 |
+| 18 | [文件上传思路总结](https://xz.aliyun.com/t/10515) | `Web Security` `File Upload` | 很棒的文件上传思路总结 |
 
 ## 读书
 | 序号 | 书名 | 备注 |
@@ -46,14 +47,15 @@
 | 4 | 图解 TCP/IP | 进度 100% |
 | 5 | 白帽子讲 Web 安全 | 进度 100% |
 | 6 | Nmap 渗透测试指南 | 进度 100% |
-| 7 | Java 代码审计 | Bad |
+| 7 | Java 代码审计入门篇 | 过于基础 |
 | 8 | 深入浅出密码学 | 进度 4% |
 | 9 | WebAssembly原理与核心技术 | 适合当参考书 |
 | 10 | 苏东坡传 | 进度 21% |
 | 11 | 深入理解 Java 虚拟机 | 进度 47% |
 | 12 | 从实践中学习windows渗透测试 | 10% |
-| 13 | Tomcat与Java Web开发技术 | 6% |
+| 13 | Tomcat与Java Web开发技术 | 100% |
 | 14 | Java 核心技术 卷2 | 100% |
+| 15 | 社会学 | 10% |
 
 ## 观影
 | 序号 | 名称 | 备注 |
