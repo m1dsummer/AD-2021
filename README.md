@@ -13,6 +13,8 @@
 | 4 | [safe6](http://www.safe6.cn/) | safe6 师傅，web安全，安卓逆向 |
 | 5 | [phith0n](https://www.leavesongs.com/)| p牛！ |
 | 6 | [whoami](https://whoamianony.top/page/2/) | whoami, web， ctfer |
+| 7 | [素18](https://su18.org/atom.xml) | su18 |
+| 8 | [4ra1n](https://4ra1n.love/) | 4ra1n, 许少 | 
 
 
 ## 收藏的文章
