@@ -14,7 +14,8 @@
 | 5 | [phith0n](https://www.leavesongs.com/)| p牛！ |
 | 6 | [whoami](https://whoamianony.top/page/2/) | whoami, web， ctfer |
 | 7 | [素18](https://su18.org/atom.xml) | su18 |
-| 8 | [4ra1n](https://4ra1n.love/) | 4ra1n, 许少 | 
+| 8 | [4ra1n](https://4ra1n.love/) | 4ra1n, 许少 |
+| 9 | [国光](https://www.sqlsec.com/atom.xml) | ByteDancer | 
 
 
 ## 收藏的文章
