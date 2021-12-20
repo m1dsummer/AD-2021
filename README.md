@@ -43,6 +43,7 @@
 | 19 | [Phar与Stream Wrapper造成PHP RCE的深入挖掘](https://xz.aliyun.com/t/2958) | `Web Security` `PHP` `phar` | 深入分析 stream wrapper 的利用 |
 | 20 | [golang 逆向，调用约定详解]() | `golang` `re` | golang 调用约定详解 | 
 | 21 | [正向角度看 Go 逆向](https://paper.seebug.org/1452/#i-compileruntime) | `golang` `re` | Golang 逆向入门 |
+| 22 | [MySQL 漏洞利用与提权](https://www.sqlsec.com/2020/11/mysql.html) | `MySQL` `提权` | MySQL 提权方法 |
 
 ## 读书
 | 序号 | 书名 | 备注 |
