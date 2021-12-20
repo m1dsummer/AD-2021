@@ -44,6 +44,7 @@
 | 20 | [golang 逆向，调用约定详解]() | `golang` `re` | golang 调用约定详解 | 
 | 21 | [正向角度看 Go 逆向](https://paper.seebug.org/1452/#i-compileruntime) | `golang` `re` | Golang 逆向入门 |
 | 22 | [MySQL 漏洞利用与提权](https://www.sqlsec.com/2020/11/mysql.html) | `MySQL` `提权` | MySQL 提权方法 |
+| 23 | [Hashcat 学习记录](https://www.sqlsec.com/2019/10/hashcat.html) | `tools` | hashcat 实用教程 | 
 
 ## 读书
 | 序号 | 书名 | 备注 |
