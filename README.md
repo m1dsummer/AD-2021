@@ -15,7 +15,8 @@
 | 6 | [whoami](https://whoamianony.top/page/2/) | whoami, web， ctfer |
 | 7 | [素18](https://su18.org/atom.xml) | su18 |
 | 8 | [4ra1n](https://4ra1n.love/) | 4ra1n, 许少 |
-| 9 | [国光](https://www.sqlsec.com/atom.xml) | ByteDancer | 
+| 9 | [国光](https://www.sqlsec.com/atom.xml) | ByteDancer |
+| 10 | [Annevi](https://annevi.cn/) | Annevi 学长 |
 
 
 ## 收藏的文章
@@ -63,7 +64,7 @@
 | 12 | 从实践中学习windows渗透测试 | 10% |
 | 13 | Tomcat与Java Web开发技术 | 100% |
 | 14 | Java 核心技术 卷2 | 100% |
-| 15 | 社会学 | 10% |
+| 15 | 社会学 | 15% |
 
 ## 观影
 | 序号 | 名称 | 写一写 |
