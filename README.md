@@ -46,7 +46,7 @@
 | 21 | [正向角度看 Go 逆向](https://paper.seebug.org/1452/#i-compileruntime) | `golang` `re` | Golang 逆向入门 |
 | 22 | [MySQL 漏洞利用与提权](https://www.sqlsec.com/2020/11/mysql.html) | `MySQL` `提权` | MySQL 提权方法 |
 | 23 | [Hashcat 学习记录](https://www.sqlsec.com/2019/10/hashcat.html) | `tools` | hashcat 实用教程 |
-| 24 | [解析针对 HTTP/2 协议的不同步攻击](https://www.4hou.com/posts/4V5k) | HTTP/2 转换为 HTTP/1 时发生的攻击 |
+| 24 | [解析针对 HTTP/2 协议的不同步攻击](https://www.4hou.com/posts/4V5k) | `Web Security` `http2` | HTTP/2 转换为 HTTP/1 时发生的攻击 |
 
 ## 读书
 | 序号 | 书名 | 备注 |
